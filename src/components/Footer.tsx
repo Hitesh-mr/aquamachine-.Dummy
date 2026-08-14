@@ -192,7 +192,7 @@ export default function Footer() {
              All rights reserved.
           </Typography>
           <Typography variant="caption" sx={{ color: 'rgba(255,255,255,0.35)', textAlign: 'center', maxWidth: 600 }}>
-            Designed & Developed by Your Sagar Makwana
+            Designed & Developed by Hitesh Prajapati
           </Typography>
         </Box>
       </Container>
